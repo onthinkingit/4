@@ -1,0 +1,7 @@
+{
+  "name": "LudoCash Pro",
+  "description": "A high-stakes Ludo platform with real-money rewards, multi-language support, and advanced matchmaking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
